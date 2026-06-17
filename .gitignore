@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+logs/
+renders/critic_arch_renders/*
+renders/sawyer_box_self_recovery/*
+renders/sawyer_peg_self_recovery/*
+renders/self_recovery_perturbations/*
+renders/self_recovery_perturbations_peg/*
+renders/state_action_repr_geometry/*
+tests/
+.runconfigs
+*.slurm
+*.png
+.vsocode/
+notebooks/*
